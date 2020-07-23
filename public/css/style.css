@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+*{
+    font-family: 'Cairo', serif;
+}
+body{
+	direction: rtl;
+}
+.help-block{
+    color: #d20d0d;
+}
+.head-title .year,.section-title, .block-title{
+	font-family: 'Cairo', serif;
+}
+.dropdown-menu{
+    margin: 0;
+    padding: 0;
+    display: none;
+	right:0;
+    position: absolute;
+    z-index: 99;
+    min-width: 190px;
+    border: none;
+    background-color: #fff;
+    white-space: nowrap;
+    border-radius: 0;
+    -webkit-box-shadow: 0 2px 15px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 2px 15px rgba(0,0,0,.1);
+    box-shadow: 0 2px 15px rgba(0,0,0,.1);
+    animation: fadeIn .4s;
+    -webkit-animation: fadeIn .4s;
+    -moz-animation: fadeIn .4s;
+    -o-animation: fadeIn .4s;
+    -ms-animation: fadeIn .4s;
+}
+.dropdown .dropdown-menu .dropdown-item{
+	text-align: right;
+}
+
+.search-bar .form-group{
+	float: right;
+}
+.owl-carousel, .section-title{
+	direction: ltr;
+}
+.featured-box{
+	text-align: right;
+}
+.featured-box .feature-content .meta-tag span{
+	float: right;
+}
+.product-item .product-content{
+    text-align: right;
+}
+.featured-box .feature-content h4 a,
+.featured-box .feature-content .listing-bottom .price,
+.product-item .card-text .icon-wrap,
+.owl-nav div,
+.works-item .icon-box i,
+.services-item .services-content h3 a,
+.services-item .icon i,
+.top-nav-collapse .navbar-nav .nav-link:hover,
+.navbar-expand-lg .navbar-nav li a:hover, .navbar-expand-lg .navbar-nav li .active>a, .navbar-expand-lg .navbar-nav li a:focus,
+.dropdown .dropdown-item:focus,.dropdown .dropdown-item:hover,.dropdown .dropdown-item.active,
+footer .menu li a:hover,
+.contact-footer li span a:hover,
+{
+	color:#a90707;
+}
+.navbar li.active a.nav-link,
+.dropdown .dropdown-item:focus,.dropdown .dropdown-item:hover,.dropdown .dropdown-item.active,
+#categories .owl-theme .owl-nav div,
+#copyright,
+.footer-social li a,
+a.back-to-top i
+{
+	background: #a90707;
+}
+.bg-light {
+	text-align: right;
+}
+.services-item .icon i{
+	float: right;
+}
+#blog{
+	text-align: right;
+}
+.footer-logo img{
+	width: 120px;
+	height: 50px;
+}
+footer p{
+	text-align: justify;
+	font-family: 'Cairo', serif;
+}
+footer #copyright p{
+	text-align: center;
+} 
+footer .menu {
+	text-align: right;
+}
+footer .block-title{
+	text-align: right;
+}
+footer .contact-footer{
+    float: right;
+    text-align: right;
+}
+#hero-area .contents span.year{
+	color:#d00808;
+}
+.page-header .breadcrumb-wrapper .product-title{
+	text-align: right;
+	font-family: 'Cairo', serif;
+}
+.page-header .breadcrumb-wrapper .breadcrumb{
+	font-family: 'Cairo', serif;
+}
+#about .about-wrapper{
+	text-align: right;
+}
+#about .intro-title,.counter-section .counter p{
+	font-family: 'Cairo', serif;
+}
+#about .intro-desc{
+	font-family: 'Cairo', serif;
+	font-size: 16px;
+	text-align: justify;
+	line-height: 2em;
+}
+.search-btn{
+	
+    position: absolute;
+    top: 0;
+    left: 20px;
+    height: 42px;
+    background-color: transparent;
+    border: none;
+}
+.page-sidebar{
+	direction: rtl;
+}
+.page-sidebar .widget .widget-title {
+    padding: 17px 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid #f1f1f1;
+	text-align: right;
+	font-family: 'Cairo', serif;
+}
+.page-sidebar .categories-list li a{
+	text-align: right;
+}
+.category-counter{
+	float: left;
+}
+#list-view .featured-box .feature-content {
+    float: right;
+    text-align: right;
+    padding: 15px;
+    width: 50.667%;
+}
+
+.ads-details-info{
+	text-align: right;
+}
+.details-sidebar .widget .widget-title{
+	text-align: right;
+	font-family: 'Cairo', serif;
+}
+.agent-details{
+	text-align: right;
+	font-family: 'Cairo', serif;
+	
+}
+#content .contact-form .contact-title:before{
+	content: "";
+    height: 3px;
+    width: 40px;
+    background: #e91e63;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+#content .information{
+    text-align: right;
+}
+#content .contact-form .contact-title{
+	text-align: right;
+}
+.list-unstyled{
+    text-align: right;
+}
+.single-post{
+	text-align: right;
+}
+.categories a{
+	text-align:right;
+}
+#sidebar .widget .widget-title {
+    padding: 17px 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: right;
+    border-bottom: 1px solid #f1f1f1;
+	font-family: 'Cairo', serif;
+}
+.tg-contactdetail,.inner-box,.sidebar-box{
+	text-align: right;
+}
+.dashboard-box .dashbord-title{
+    float: right;
+    width: 100%;
+}
+.dashboardtable thead tr th{
+    text-align: right;
+}
+.dashboard-sections .contentbox h3{
+    text-align: center;
+}
+.dashboard-wrapper .viewadstable{
+    width:100%;
+    height: 500px;
+}
+.dashboard-wrapper .viewadstable tr{
+    border: 1px solid #f1f1f1;
+}
+.dashboard-wrapper .viewadstable tr td{
+    width:100%;
+}
+.dashboard-wrapper .viewadstable .head{
+
+    background: #e91e63;
+    color: #fff;
+    width:20%;
+}
+.hide{
+    display: none;
+}
+select.form-control:not([size]):not([multiple]){
+    padding: 0 5px 0 0;
+}
+.req{
+    color: red;
+    position: absolute;
+    right:-11px;
+    top:0;
+    font-size: 20px;
+}
+.modal-dialog{
+    margin-top: 100px;
+}
+.alert{
+    text-align: right;
+}
+/*
+.fixed-top{
+	direction: rtl;
+}
