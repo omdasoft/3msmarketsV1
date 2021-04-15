@@ -1,3 +1,19 @@
-# Multi-User Authentication Tutorail
+# 3msmarkets V1 
+> classified ads website
 
-_Produced by DevMarketer_
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
+
+## General info
+classified ads website with users and admin dashboard 
+## Technologies
+* laravel 
+* MySql
+* bootstrap 3
+* css3 
+
+## Status
+Project is: _in progress
+
