@@ -9,7 +9,7 @@
 ## General info
 classified ads website with users and admin dashboard 
 ## Technologies
-* laravel 
+* laravel 5.4.36
 * MySql
 * bootstrap 3
 * css3 
