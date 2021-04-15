@@ -10,6 +10,7 @@
 classified ads website with users and admin dashboard 
 ## Technologies
 * laravel 5.4.36
+* ajax
 * MySql
 * bootstrap 3
 * css3 
